@@ -74,9 +74,9 @@ A `traceability_matrix.xlsx` file is included to show the mapping between:
 
 ## 👩‍💻 Author
 
-**Your Name**  
-QA Engineer | Automation Enthusiast  
-[LinkedIn](https://linkedin.com/in/your-profile)
+**Manas Kumar Rout**  
+QA Intern   
+[LinkedIn](www.linkedin.com/in/manaskumarrout)
 
 ---
 
